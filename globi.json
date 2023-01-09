@@ -1,5 +1,5 @@
-{ 
+{
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature.",
+  "citation": "Aubrey Moore. 2023. Insects associated with Glochidion manually extracted from Insects of Guam I and II.",
   "deprecated": false
 }
