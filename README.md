@@ -2,3 +2,4 @@
 
 This repo is currently a simple test to see if I can publish species interaction data on [GloBI](http://globalbioticinteractions.org).
 
+[![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=aubreymoore/Guam-insect_associates-of-Gloghidion)](https://globalbioticinteractions.org/?accordingTo=aubreymoore/Guam-insect_associates-of-Gloghidion)
