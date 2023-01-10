@@ -2,7 +2,7 @@
 
 This repo is currently a simple test to see if I can publish species interaction data on [GloBI](http://globalbioticinteractions.org).
 
-[![GloBI review by Elton](https://github.com/aubreymoore/Guam-insect-associates-of-Glochidian/actions/workflows/review.yml/badge.svg)](https://github.com/aubreymoore/Guam-insect-associates-of-Glochidian/actions/workflows/review.yml/badge.svg))
+[![GloBI review by Elton](https://github.com/aubreymoore/Guam-insect-associates-of-Glochidian/actions/workflows/review.yml/badge.svg)](https://github.com/aubreymoore/Guam-insect-associates-of-Glochidian/actions/workflows/review.yml/badge.svg)
 
 
 
